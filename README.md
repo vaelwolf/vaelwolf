@@ -1,5 +1,5 @@
 Hey there, I’m @vaelwolf. 
-- Threat Researcher
+- Synack Red Team Member
 - Aspiring physical security specialist
 - Whitehat exploit developer
 - Friendly neighborhood philomath
